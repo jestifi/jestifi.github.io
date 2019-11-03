@@ -1,0 +1,23 @@
+.card-profile {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  margin-bottom: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.title-card {
+
+}
