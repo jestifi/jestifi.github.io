@@ -201,6 +201,7 @@ h1.medium {
   }
 }
 
+
 @media screen and (max-width: 320px) {
   h1.medium {
     font-size: 20px;
