@@ -1,0 +1,41 @@
+.testimonial-promo-main {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.testimonial-promo {
+	width: 600px;
+	height: 350px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	overflow: hidden;
+	font-size: 24px;
+}
+
+.testimonial-title {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.testimonials-div {
+	height: auto;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+}
+
+.testimonial {
+	width: 350px;
+	height: 300px;
+	margin: 10px;
+	border-radius: 5px;
+	overflow: hidden;
+}
