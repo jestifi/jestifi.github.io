@@ -39,3 +39,8 @@
 	border-radius: 5px;
 	overflow: hidden;
 }
+.logo{
+	width: 200px;
+	height: 70px;
+	margin-top: 2px;
+}
